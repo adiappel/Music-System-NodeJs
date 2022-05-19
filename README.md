@@ -32,7 +32,7 @@ The app is on http://localhost:3000/
 * Get all accounts
     http://localhost:3000/accounts/all
 
-* Get all active userss
+* Get all active users
     http://localhost:3000/accounts/allactiveusers
  
  
